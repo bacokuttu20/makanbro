@@ -3,12 +3,12 @@ date_default_timezone_set('Asia/Jakarta');
 include "function1.php";
 ulang:
 // function change(){
-echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
-echo color("yellow","[•] Time : ".date('[d-m-Y] [H:i:s]')." \n");
-echo color("yellow","[•] waiting proses..... \n");
-echo color("yellow","[•] CUAN FOR MY LIFE \n");
-echo color("yellow","[•] cara menulis nomor pake 62xxxxxxxxxx \n");
-echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
+echo color("nevy"," ===================================\n");
+echo color("yellow"," 	Buat akun dan Klaim Voucher	\n");
+echo color("green","    Jawkills & CUAN FOR MY LIFE\n");
+echo color("yellow","cara menulis nomor pake 62xxxxxxxxxx \n");
+echo color("blue"," Time    : ".date('[d-m-Y] [H:i:s]')."	\n");
+echo color("nevy"," ===================================\n");
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         echo color("white"," NOMOR  : ");

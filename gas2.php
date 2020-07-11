@@ -4,8 +4,8 @@ include "function2.php";
 ulang:
 // function change(){
 echo color("nevy"," ===================================\n");
-echo color("yellow"," 	Buat akun dan Klaim Voucher\n");
-echo color("green","    Jawkills & CUAN FOR MY LIFE\n");
+echo color("yellow"," Klaim Voucher 15+10+5\n");
+echo color("green"," Jawkills & CUAN FOR MY LIFE\n");
 echo color("yellow","cara menulis nomor pake 62xxxxxxxxxx \n");
 echo color("blue"," Time    : ".date('[d-m-Y] [H:i:s]')."	\n");
 echo color("nevy"," ===================================\n");

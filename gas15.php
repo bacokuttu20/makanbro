@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "functionx.php";
+include "function15.php";
 echo color("nevy"," ===================================\n");
 echo color("yellow"," 	     Klaim Voucher 15+10+5	\n");
 echo color("green","    Jawkills & CUAN FOR MY LIFE\n");

@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function1.php";
 echo color("nevy"," ===================================\n");
-echo color("yellow"," 	Buat akun dan Klaim Voucher	\n");
+echo color("yellow"," 	Buat akun dan Klaim Voucher\n");
 echo color("green","    Jawkills & CUAN FOR MY LIFE\n");
 echo color("blue"," Time    : ".date('[d-m-Y] [H:i:s]')."	\n");
 echo color("nevy"," ===================================\n");
